@@ -1,0 +1,119 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Outfit';
+}
+
+body {
+    background-color: hsl(30, 54%, 90%);
+    max-width: 1440px;
+}
+
+h1 {
+    font-family: 'Young Serif';
+    font-weight: 400;
+    color: hsl(332, 5%, 18%);
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+h2 {
+    font-family: 'Young Serif';
+    color: hsl(14, 45%, 36%);
+    font-weight: 400;
+    padding-bottom: 10px;
+    padding-top: 25px;
+}
+
+hr {
+    border-color: hsla(0, 0%, 100%, 0.363);
+}
+
+table {
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.pnut {
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
+
+h3 {
+    color: hsl(330, 93%, 18%);
+    font-size: 16px;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.preparation-time {
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.preparo {
+    padding-left: 25px;
+}
+
+.ingredientes {
+    padding-left: 20px;
+    padding-bottom: 25px;
+}
+
+.instrucoes {
+    padding-left: 20px;
+    padding-bottom: 25px;
+}
+
+li {
+    padding: 5px;
+}
+
+.p1 {
+    padding-bottom: 20px;
+}
+
+#valores {
+    color: hsl(14, 45%, 36%);
+    font-weight: bold;
+}
+
+#font-size {
+    font-size: 14px;
+    font-weight: 400;
+    color: hsl(30, 10%, 34%);
+}
+
+img {
+    width: 600px;
+    border-radius: 15px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+
+    width: 700px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding-left: 500px;
+
+}
+
+.card {
+    width: 600px;
+    background-color: hsl(0, 0%, 100%);
+    padding: 50px;
+    border-radius: 15px;
+}
+
+table {
+    border: 10px;
+    border-color: black;
+}
