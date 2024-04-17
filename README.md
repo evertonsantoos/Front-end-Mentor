@@ -5,3 +5,4 @@ Tentei reproduzir uma Página de Receitas, e fazê-la parecer o mais próximo po
 <br>Desafio do Front-end Mentor: [Página de receitas](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)<br>
 <br>[Projeto finalizado](https://evertonsantoos.github.io/Front-end-Mentor/)<br>
 
+<img src="design/desktop-design.jpg" alt="imagem-ilustrativa">
